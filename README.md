@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Olá, eu sou Everton Luis, um desenvolvedor Front-End apaixonado por tecnologia!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/everton-luis-santos-silva/"><img src="https://img.shields.io/badge/-Everton%20Luis-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/evertonluis.web/"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>@evertonluis.web</a>
+<a href="https://www.instagram.com/evertonluis.web/"><img src="https://img.shields.io/badge/-@evertonluis.web%_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>@evertonluis.web</a>
 <a href="mailto:evertonluissantossilva@outlook.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
