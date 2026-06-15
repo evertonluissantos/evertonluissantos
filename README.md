@@ -51,4 +51,4 @@ Este GitHub representa minha evolução como desenvolvedor e reúne projetos que
 
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha&show_icons=true&theme=dracula)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertonluissantos&show_icons=true&theme=dracula" />
