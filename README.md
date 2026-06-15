@@ -1,40 +1,25 @@
-<h1>👋 &nbsp;Hey, I'm Felipe Rocha, a passionate Full Stack Engineer!</h1>
+<h1>👋 &nbsp;Olá, eu sou Everton Luis, um desenvolvedor Front-End apaixonado por tecnologia!</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/byfeliperocha"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ"><img src="https://img.shields.io/badge/-My%20YT%20Channel-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
-<a href="mailto:felipemotarocha@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/everton-luis-santos-silva/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>Everton Luis</a>
+<a href="https://www.instagram.com/evertonluis.web/"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>@evertonluis.web</a>
+<a href="mailto:evertonluissantossilva@outlook.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
 
-I'm a software engineer focused on full stack development, passionate about building scalable, modern, and well-architected solutions. I’ve worked on high-impact projects in Brazil, the UK, and the US, using technologies like TypeScript, React & React Native, Next.js, Node.js, Docker, AWS, Kafka, Kubernetes, PostgreSQL, microservices, and much more.
+Sou um desenvolvedor Front-End apaixonado por criar interfaces modernas, responsivas e intuitivas. Atualmente, desenvolvo projetos utilizando HTML, CSS, JavaScript, TypeScript, React, Next.js e Node.js, sempre focado em boas práticas, performance e experiência do usuário.
 
-I wrote my first lines of code at age 11, when I wanted to create a private server for a game I loved at the time. After a lot of research, I finally got it online — and the feeling was magical. I realized I could customize anything just by writing code. That moment changed everything for me: I knew I wanted to become a developer.
+Comecei a programar aos 15 anos, quando criei meu primeiro site por curiosidade. Desde então, a tecnologia se tornou uma paixão que me levou à graduação em Análise e Desenvolvimento de Sistemas, à Pós-Graduação em Engenharia de Software e à busca constante por evolução através de projetos e estudos práticos.
 
-Since then, I’ve remained deeply passionate about programming and constantly strive to learn more and become a better professional every day.
+Estou construindo minha carreira em desenvolvimento web e transformando ideias em soluções digitais.
 
-<h2> 🎓 &nbsp;Lifelong Learner & Educator </h2
+<h2> 🎓 &nbsp;Aprendizado Contínuo </h2
 
-One of the things I'm most passionate about is continuous learning and sharing knowledge with others. Since the beginning of my journey, I've been fascinated not only by solving complex problems with code but also by helping others understand and grow in their own paths.
+Sou apaixonado por tecnologia e acredito que a melhor forma de aprender é construindo. Estou constantemente estudando, desenvolvendo projetos e aprimorando minhas habilidades em HTML, CSS, JavaScript, TypeScript, React, Next.js e Node.js.
 
-That's why I founded the <strong>[Full Stack Club](https://www.fullstackclub.com.br/)</strong>, a community where I mentor and support over <strong>3,000 aspiring developers</strong>. There, I teach practical skills in technologies like TypeScript, React, Node.js, and more — all with a hands-on, real-world approach focused on building solid careers in software engineering.
+Este GitHub representa minha evolução como desenvolvedor e reúne projetos que refletem meu aprendizado, dedicação e paixão por desenvolvimento web.
 
-I also run a [YouTube channel](https://www.youtube.com/@dicasparadevs) where I’ve been creating content for over 5 years. My videos have accumulated more than <strong>2.5 million views</strong>, and my React and Node.js courses are among the most watched in Brazil. Through my content, I aim to make high-quality programming education accessible and practical for everyone.
-
-Teaching helps me grow as much as coding does, and I'm always striving to be a better developer, mentor, and human being.
-
-<h2> 📚 &nbsp;What will you find here?</h2>
-
-This GitHub is more than just a code repository — it's a reflection of my journey, experiences, and commitment to clean, purposeful software development. Whether you're a recruiter, a fellow developer, or someone learning to code, here's what you'll find:
-
-- Real-world projects used by thousands of users
-- Clean Architecture and SOLID principles in action
-- High test coverage with automated testing
-- Experiments, technical studies, and real-world best practices
-  
-If you’d like to connect, collaborate, or have any questions, feel free to <a href="mailto:felipemota.rocha@gmail.com">click here and send me an email</a> — or reach out on <a href="https://www.linkedin.com/in/felipe-rocha-034871172/">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
